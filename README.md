@@ -17,7 +17,7 @@ Follow the instructions of the [tutorials](http://www.sfml-dev.org/tutorials/), 
 
 ## Learn
 
-This project was write to learn c ++ language in game programming.
+This project was written to learn c ++ language in game programming.
 
 There are several places to learn SFML:
 
